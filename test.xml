@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<study_collection>
+    <clinical_study partial_upload="true">
+        <id_info>
+            <provider_name>str1234</provider_name>
+            <provider_study_id>str1234</provider_study_id>
+            <org_name>str1234</org_name>
+            <org_study_id>str1234</org_study_id>
+            <secondary_id delete="true">
+                <id>str1234</id>
+                <id_type>str1234</id_type>
+                <id_domain>str1234</id_domain>
+            </secondary_id>
+        </id_info>
+        <is_fda_regulated delete="true">str1234</is_fda_regulated>
+        <is_section_801 delete="true">str1234</is_section_801>
+        <delayed_posting delete="true">str1234</delayed_posting>
+        <is_ind_study delete="true">str1234</is_ind_study>
+        <ind_info delete="true">
+            <ind_grantor>str1234</ind_grantor>
+            <ind_number>str1234</ind_number>
+            <ind_serial_number>str1234</ind_serial_number>
+            <has_expanded_access>str1234</has_expanded_access>
+            <expanded_access_nct_id>str1234</expanded_access_nct_id>
+        </ind_info>
+        <brief_title delete="true">str1234</brief_title>
+        <acronym>str1234</acronym>
+        <official_title delete="true">str1234</official_title>
+        <sponsors delete="true">
+            <lead_sponsor>
+                <agency>str1234</agency>
+            </lead_sponsor>
+            <collaborator>
+                <agency>str1234</agency>
+            </collaborator>
+            <resp_party>
+                <resp_party_type>str1234</resp_party_type>
+                <investigator_username>str1234</investigator_username>
+                <investigator_title>str1234</investigator_title>
+                <investigator_affiliation>str1234</investigator_affiliation>
+                <name_title>str1234</name_title>
+                <organization>str1234</organization>
+                <phone>str1234</phone>
+                <phone_ext>str1234</phone_ext>
+                <email>str1234</email>
+            </resp_party>
+        </sponsors>
+        <oversight_info delete="true">
+            <regulatory_authority>str1234</regulatory_authority>
+            <irb_info>
+                <approval_status>str1234</approval_status>
+                <approval_number>str1234</approval_number>
+                <name>str1234</name>
+                <affiliation>str1234</affiliation>
+                <phone>str1234</phone>
+                <phone_ext>str1234</phone_ext>
+                <email>str1234</email>
+                <full_address>str1234</full_address>
+            </irb_info>
+            <has_dmc>str1234</has_dmc>
+            <fda_regulated_drug>str1234</fda_regulated_drug>
+            <fda_regulated_device>str1234</fda_regulated_device>
+            <post_prior_to_approval>str1234</post_prior_to_approval>
+            <exported_from_us>str1234</exported_from_us>
+            <ped_postmarket_surv>str1234</ped_postmarket_surv>
+        </oversight_info>
+        <brief_summary delete="true">
+            <textblock>str1234</textblock>
+        </brief_summary>
+        <detailed_description delete="true">
+            <textblock>str1234</textblock>
+        </detailed_description>
+        <overall_status delete="true">str1234</overall_status>
+        <why_stopped delete="true">str1234</why_stopped>
+        <expanded_access_status delete="true">str1234</expanded_access_status>
+        <verification_date>str1234</verification_date>
+        <start_date delete="true">str1234</start_date>
+        <start_date_type delete="true">str1234</start_date_type>
+        <end_date>str1234</end_date>
+        <last_follow_up_date delete="true">str1234</last_follow_up_date>
+        <last_follow_up_date_type delete="true">str1234</last_follow_up_date_type>
+        <primary_compl_date delete="true">str1234</primary_compl_date>
+        <primary_compl_date_type delete="true">str1234</primary_compl_date_type>
+        <study_design>
+            <study_type delete="true">str1234</study_type>
+            <interventional_design delete="true">
+                <interventional_subtype>str1234</interventional_subtype>
+                <phase>str1234</phase>
+                <assignment>str1234</assignment>
+                <model_description>
+                    <textblock>str1234</textblock>
+                </model_description>
+                <allocation>str1234</allocation>
+                <masking>str1234</masking>
+                <no_masking>str1234</no_masking>
+                <masked_subject>str1234</masked_subject>
+                <masked_caregiver>str1234</masked_caregiver>
+                <masked_investigator>str1234</masked_investigator>
+                <masked_assessor>str1234</masked_assessor>
+                <masking_description>
+                    <textblock>str1234</textblock>
+                </masking_description>
+                <control>str1234</control>
+                <endpoint>str1234</endpoint>
+                <number_of_arms>str1234</number_of_arms>
+            </interventional_design>
+            <observational_design delete="true">
+                <observational_study_design>str1234</observational_study_design>
+                <biospecimen_retention>str1234</biospecimen_retention>
+                <biospecimen_description>
+                    <textblock>str1234</textblock>
+                </biospecimen_description>
+                <timing>str1234</timing>
+                <number_of_groups>str1234</number_of_groups>
+                <patient_registry>str1234</patient_registry>
+                <target_duration_quantity>str1234</target_duration_quantity>
+                <target_duration_units>str1234</target_duration_units>
+            </observational_design>
+            <no_exp_acc_type>str1234</no_exp_acc_type>
+            <exp_acc_type_individual>str1234</exp_acc_type_individual>
+            <exp_acc_type_intermediate>str1234</exp_acc_type_intermediate>
+            <exp_acc_type_treatment>str1234</exp_acc_type_treatment>
+        </study_design>
+        <primary_outcome delete="true">
+            <outcome_measure>str1234</outcome_measure>
+            <outcome_time_frame>str1234</outcome_time_frame>
+            <outcome_description>
+                <textblock>str1234</textblock>
+            </outcome_description>
+            <outcome_safety_issue>str1234</outcome_safety_issue>
+        </primary_outcome>
+        <secondary_outcome delete="true">
+            <outcome_measure>str1234</outcome_measure>
+            <outcome_time_frame>str1234</outcome_time_frame>
+            <outcome_description>
+                <textblock>str1234</textblock>
+            </outcome_description>
+            <outcome_safety_issue>str1234</outcome_safety_issue>
+        </secondary_outcome>
+        <other_outcome delete="true">
+            <outcome_measure>str1234</outcome_measure>
+            <outcome_time_frame>str1234</outcome_time_frame>
+            <outcome_description>
+                <textblock>str1234</textblock>
+            </outcome_description>
+            <outcome_safety_issue>str1234</outcome_safety_issue>
+        </other_outcome>
+        <enrollment delete="true">str1234</enrollment>
+        <enrollment_type delete="true">str1234</enrollment_type>
+        <condition delete="true">str1234</condition>
+        <keyword delete="true">str1234</keyword>
+        <arm_group delete="true">
+            <arm_group_label>str1234</arm_group_label>
+            <arm_type>str1234</arm_type>
+            <arm_group_description>
+                <textblock>str1234</textblock>
+            </arm_group_description>
+        </arm_group>
+        <intervention delete="true">
+            <intervention_type>str1234</intervention_type>
+            <intervention_name>str1234</intervention_name>
+            <intervention_description>
+                <textblock>str1234</textblock>
+            </intervention_description>
+            <arm_group_label>str1234</arm_group_label>
+            <intervention_other_name>str1234</intervention_other_name>
+        </intervention>
+        <eligibility delete="true">
+            <study_population>
+                <textblock>str1234</textblock>
+            </study_population>
+            <sampling_method>str1234</sampling_method>
+            <criteria>
+                <textblock>str1234</textblock>
+            </criteria>
+            <healthy_volunteers>str1234</healthy_volunteers>
+            <gender>str1234</gender>
+            <gender_based>str1234</gender_based>
+            <gender_description>
+                <textblock>str1234</textblock>
+            </gender_description>
+            <minimum_age>str1234</minimum_age>
+            <maximum_age>str1234</maximum_age>
+        </eligibility>
+        <overall_official delete="true">
+            <first_name>str1234</first_name>
+            <middle_name>str1234</middle_name>
+            <last_name>str1234</last_name>
+            <degrees>str1234</degrees>
+            <role>str1234</role>
+            <affiliation>str1234</affiliation>
+        </overall_official>
+        <overall_contact delete="true">
+            <first_name>str1234</first_name>
+            <middle_name>str1234</middle_name>
+            <last_name>str1234</last_name>
+            <degrees>str1234</degrees>
+            <phone>str1234</phone>
+            <phone_ext>str1234</phone_ext>
+            <email>str1234</email>
+        </overall_contact>
+        <overall_contact_backup delete="true">
+            <first_name>str1234</first_name>
+            <middle_name>str1234</middle_name>
+            <last_name>str1234</last_name>
+            <degrees>str1234</degrees>
+            <phone>str1234</phone>
+            <phone_ext>str1234</phone_ext>
+            <email>str1234</email>
+        </overall_contact_backup>
+        <location delete="true">
+            <facility>
+                <name>str1234</name>
+                <address>
+                    <city>str1234</city>
+                    <state>str1234</state>
+                    <country>str1234</country>
+                    <zip>str1234</zip>
+                </address>
+            </facility>
+            <status>str1234</status>
+            <contact>
+                <first_name>str1234</first_name>
+                <middle_name>str1234</middle_name>
+                <last_name>str1234</last_name>
+                <degrees>str1234</degrees>
+                <phone>str1234</phone>
+                <phone_ext>str1234</phone_ext>
+                <email>str1234</email>
+            </contact>
+            <contact_backup>
+                <first_name>str1234</first_name>
+                <middle_name>str1234</middle_name>
+                <last_name>str1234</last_name>
+                <degrees>str1234</degrees>
+                <phone>str1234</phone>
+                <phone_ext>str1234</phone_ext>
+                <email>str1234</email>
+            </contact_backup>
+            <investigator>
+                <first_name>str1234</first_name>
+                <middle_name>str1234</middle_name>
+                <last_name>str1234</last_name>
+                <degrees>str1234</degrees>
+                <role>str1234</role>
+            </investigator>
+        </location>
+        <ipd_sharing_statement delete="true">
+            <sharing_ipd>str1234</sharing_ipd>
+            <ipd_description>
+                <textblock>str1234</textblock>
+            </ipd_description>
+            <ipd_info_type_protocol>str1234</ipd_info_type_protocol>
+            <ipd_info_type_sap>str1234</ipd_info_type_sap>
+            <ipd_info_type_icf>str1234</ipd_info_type_icf>
+            <ipd_info_type_csr>str1234</ipd_info_type_csr>
+            <ipd_info_type_analytic_code>str1234</ipd_info_type_analytic_code>
+            <ipd_time_frame>
+                <textblock>str1234</textblock>
+            </ipd_time_frame>
+            <ipd_access_criteria>
+                <textblock>str1234</textblock>
+            </ipd_access_criteria>
+            <ipd_url>str1234</ipd_url>
+        </ipd_sharing_statement>
+        <link delete="true">
+            <url>str1234</url>
+            <description>str1234</description>
+        </link>
+        <reference delete="true">
+            <citation>str1234</citation>
+            <pubmed_id>str1234</pubmed_id>
+            <is_results_ref>str1234</is_results_ref>
+        </reference>
+        <study_document delete="true">
+            <study_document_type>str1234</study_document_type>
+            <study_document_other_type>str1234</study_document_other_type>
+            <url>str1234</url>
+            <study_document_identifier>str1234</study_document_identifier>
+            <study_document_comments>
+                <textblock>str1234</textblock>
+            </study_document_comments>
+        </study_document>
+    </clinical_study>
+</study_collection>
