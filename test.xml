@@ -12,10 +12,10 @@
                 <id_domain>str1234</id_domain>
             </secondary_id>
         </id_info>
-        <is_fda_regulated delete="true">str1234</is_fda_regulated>
-        <is_section_801 delete="true">str1234</is_section_801>
-        <delayed_posting delete="true">str1234</delayed_posting>
-        <is_ind_study delete="true">str1234</is_ind_study>
+        <is_fda_regulated delete="true">Astr1234</is_fda_regulated>
+        <is_section_801 delete="true">Astr1234</is_section_801>
+        <delayed_posting delete="true">Astr1234</delayed_posting>
+        <is_ind_study delete="true">Astr1234</is_ind_study>
         <ind_info delete="true">
             <ind_grantor>str1234</ind_grantor>
             <ind_number>str1234</ind_number>
